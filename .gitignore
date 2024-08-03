@@ -1,0 +1,4 @@
+venv/
+.zig-cache/
+zig-out/
+*.c
